@@ -1,0 +1,1 @@
+g++ socketcan.cpp -o socketcan && ./socketcan
